@@ -7,7 +7,7 @@ The process involves three main steps:
    2. Building a machine learning model (Random Forest Classifier).
    3. Predicting emotional states based on input features.
 
-Simulating Data
+Simulating Data:
 We simulate physiological data for three emotional states: Calm, Happy, and Anxious. Each state is associated with distinct patterns of heart rate, HRV, and EEG band powers.
   -Heart Rate (HR_mean): Simulated using a normal distribution with distinct means for each emotion.
   -Heart Rate Variability (HRV): Simulated to reflect typical variations (e.g., higher for calm, lower for anxious).
