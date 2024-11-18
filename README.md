@@ -1,4 +1,4 @@
-# **Emotion Detection Using Physiological Signals**
+## **Emotion Detection Using Physiological Signals**
 
 
 This project aims to create a mockup model for detecting the emotional state of a child with Autism Spectrum Disorder (ASD) using physiological signals such as heart rate (HR), heart rate variability (HRV), and EEG band powers (alpha, beta, theta).
